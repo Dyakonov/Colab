@@ -16,6 +16,7 @@
 ### кластеризация текстов
 * [ ] dj_CLUSTERexperiments.ipynb - первые эксперименты с кластеризацией тектов
 * [ ] dj_CLUSTERexperimentsN2.ipynb - экспериметы с кластеризацией текстов
+* [ ] dj_CLUSTERexperimentsN3.ipynb - ещё...
 * [ ] dj_BERTScore_bad.ipynb - не знаю, см....
 * [ ] dj_word_similarity.ipynb - схожесть слов
 
