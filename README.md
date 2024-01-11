@@ -7,3 +7,4 @@
 * [X] dj_KMsketch.ipynb - Иллюстрация библиотеки Sketch
 * [ ] dj_VKCup_4teach.ipynb - Русский BERT -  в соревновании VK (не уверен в версии)
 * [X] mkb_presentation.ipynb - презентация решения соревнования
+* [X] ART_ver55.ipynb - соревнование по классификации (не лучшая версия, см. MSI)
