@@ -19,6 +19,7 @@
 * [ ] dj_CLUSTERexperimentsN3.ipynb - ещё...
 * [ ] dj_BERTScore_bad.ipynb - не знаю, см....
 * [ ] dj_word_similarity.ipynb - схожесть слов
+* [ ] dj_EmotionClassifier.ipynb - кассификация эмоций по тексту на внутреннем датасете
 
 ### код с мини-исследованиям
 * [X] dj_KMsketch.ipynb - Иллюстрация библиотеки Sketch
