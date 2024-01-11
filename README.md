@@ -5,3 +5,4 @@
 * [ ] dj_DistanceLearning.ipynb - выучиванеи L2-расстояния
 * [ ] dj_traintestsplit_invest01.ipynb - эксперименты по разбиению выборки на части
 * [X] dj_KMsketch.ipynb - Иллюстрация библиотеки Sketch
+* [ ] Русский BERT -  в соревновании VK (не уверен в версии)
